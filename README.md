@@ -9,5 +9,5 @@ Esse projeto faz parte do evento Next Level Week 4, fornecido pela Rocketseat. O
 
 ### Tecnologias Utilizadas:
 
-<img src="./assetsReadme/nodejs-icon.png" title="NodeJS" alt="NodeJS" height="70" /><img src="./assetsReadme/typescript-icon.png" title="TypeScript" alt="TypeScript" height="50" />
+<img src="./assetsReadme/nodejs-icon.png" title="NodeJS" alt="NodeJS" height="70" /><img src="./assetsReadme/typescript-icon.png" title="TypeScript" alt="TypeScript" height="50" /><img src="./assetsReadme/sqlite-icon.png" title="SqLite" alt="SqLite" height="50" />
 
